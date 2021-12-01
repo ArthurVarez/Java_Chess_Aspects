@@ -1,6 +1,5 @@
 # Programmation objet avancée : TP2 Question 2
 
-https://github.com/QuentinKlebaur/tp2_2
 
 ## I Utilisation
 
